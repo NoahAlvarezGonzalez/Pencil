@@ -3,4 +3,3 @@ opencv-python
 Pillow
 numpy
 pybase64
-io
