@@ -1,0 +1,6 @@
+streamlit
+cv2
+PIL
+numpy
+base64
+io
