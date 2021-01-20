@@ -1,6 +1,6 @@
 streamlit
 opencv-python
-PIL
+Pillow
 numpy
 base64
 io
