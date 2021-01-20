@@ -2,5 +2,5 @@ streamlit
 opencv-python
 Pillow
 numpy
-base64
+pybase64
 io
