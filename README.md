@@ -17,5 +17,3 @@ https://pencil-app-noah.herokuapp.com
 * The result is then showed and screen, and a download button appear
 * If the user click Download, the array is converted back into a .JPG file and a download link appears
 * The user can then download the result
-
-# Result
